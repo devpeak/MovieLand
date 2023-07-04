@@ -11,8 +11,7 @@ Welcome to the Movie Search React App! This is a simple application where users 
   - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Demonstration](#demonstration)
 
 ## Features
 
@@ -98,3 +97,13 @@ The Movie Search React App utilizes the following dependencies:
 
 - React: JavaScript library for building user interfaces.
 - ReactDOM: Package for rendering React components
+
+## Demonstration
+
+- The demonstration of Movie Search App
+
+![Demo](https://github.com/devpeak/MovieLand/assets/100518568/d57c000a-746f-4646-912e-4b1b8d1b3307)
+
+
+https://github.com/devpeak/MovieLand/assets/100518568/2d062e86-8b3e-42e0-a763-a29bd6ad2928
+
